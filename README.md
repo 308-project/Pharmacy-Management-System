@@ -99,13 +99,3 @@ By using MySQL commands and its database this website Pharmacy management tends 
  ```
  <br>
 
-# CONCLUSIONS AND FUTURE SCOPE
-o	Detailed information gathering has to be done. Without that the purpose for using the software won’t be satisfied properly.<br>
-o	However, it can give good profits in the long run.<br>
-o	Implementing the software requires change in the business practices.<br>
-o	Efficient organization of all knowledge is the analysis company and easy analysis access and retrieval of information is possible.<br>
-o	In this project we can also include BAR CODE facility using the bar code reader, which will detect the expiry date and the other information about the related medicines.<br>
-o	Company using this software will always be able to plan in future and always be aware of their financial position in the market. <br>
-o	It leads to ease in functioning of business processes.<br>
-o	The project can be made more robust by including biometric verification.<br>
-o	There is also a scope to expand by implementing newer technologies like cloud etcetera. <br>
